@@ -1,14 +1,6 @@
-# 📱 Tugas Prototyping Mobile: WebView dengan MIT App Inventor
+# 📱 Tugas Prototyping Mobile: WebView dengan MIT App Inventor ARIO SIMBOLON
 
 Repositori ini berisi dokumentasi tugas mata kuliah **Pemrograman Mobile**. Tugas terdiri dari dua bagian: setup version control (GitHub) dan pembuatan prototipe aplikasi dengan **MIT App Inventor**.
-
-## 👤 Identitas
-
-| | |
-|---|---|
-| **Nama** | Ario simbolon |
-| **NIM** | ISI_NIM |
-| **Kelas** | ISI_KELAS |
 
 ## ✅ Daftar Tugas
 
